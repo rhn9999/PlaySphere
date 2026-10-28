@@ -4,7 +4,7 @@ export const Badge = ({
   children,
   variant = 'neutral',
   size = 'md',
-  className = ''
+  className = '' 
 }) => {
   const variantStyles = {
     success: 'bg-emerald-50 text-emerald-700 border-emerald-200/80',
