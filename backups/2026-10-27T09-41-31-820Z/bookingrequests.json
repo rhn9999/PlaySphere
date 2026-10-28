@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "6adfc32ece3f4c99372ebf83",
+    "player": "6adfc32dce3f4c99372ebf50",
+    "slot": "6adfc32ece3f4c99372ebf80",
+    "status": "CONFIRMED",
+    "qrPass": "KHEL-MVPRB872-BBA76751",
+    "totalAmount": 2000,
+    "respondedAt": "2026-10-26T21:16:30.398Z",
+    "notes": "Evening 5v5 friendly match",
+    "createdAt": "2026-10-26T21:16:30.399Z",
+    "updatedAt": "2026-10-26T21:16:30.399Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "6adfc32ece3f4c99372ebfa6",
+    "sender": "6adfc32dce3f4c99372ebf50",
+    "recipient": null,
+    "room": "match:6adfc32ece3f4c99372ebf8e",
+    "text": "See everyone on the turf at 6 PM sharp!",
+    "sentAt": "2026-10-26T21:16:30.483Z",
+    "createdAt": "2026-10-26T21:16:30.484Z",
+    "updatedAt": "2026-10-26T21:16:30.484Z",
+    "__v": 0
+  }
+]

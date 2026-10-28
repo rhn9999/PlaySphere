@@ -1,0 +1,55 @@
+export const ROLES = Object.freeze({
+  PLAYER: 'PLAYER',
+  ADMIN: 'ADMIN',
+  VENUE_OWNER: 'VENUE_OWNER'
+});
+
+export const ROLE_LIST = Object.values(ROLES);
+
+export const SLOT_STATUS = Object.freeze({
+  AVAILABLE: 'AVAILABLE',
+  BOOKED: 'BOOKED',
+  BLOCKED: 'BLOCKED'
+});
+
+export const BOOKING_STATUS = Object.freeze({
+  PENDING: 'PENDING',
+  CONFIRMED: 'CONFIRMED',
+  CANCELLED: 'CANCELLED',
+  REJECTED: 'REJECTED'
+});
+
+export const MATCH_STATUS = Object.freeze({
+  OPEN: 'OPEN',
+  FULL: 'FULL',
+  SEARCHING: 'SEARCHING',
+  TEAM_FULL: 'TEAM_FULL',
+  PENDING: 'PENDING',
+  CONFIRMED: 'CONFIRMED',
+  COMPLETED: 'COMPLETED',
+  CANCELLED: 'CANCELLED'
+});
+
+export const JOIN_REQUEST_STATUS = Object.freeze({
+  PENDING: 'PENDING',
+  ACCEPTED: 'ACCEPTED',
+  REJECTED: 'REJECTED'
+});
+
+export const REPORT_STATUS = Object.freeze({
+  PENDING: 'PENDING',
+  RESOLVED: 'RESOLVED',
+  DISMISSED: 'DISMISSED'
+});
+
+export const VENUE_STATUS = Object.freeze({
+  ACTIVE: 'ACTIVE',
+  INACTIVE: 'INACTIVE',
+  PENDING_APPROVAL: 'PENDING_APPROVAL'
+});
+
+export const VENUE_VERIFY_STATUS = Object.freeze({
+  PENDING: 'PENDING',
+  APPROVED: 'APPROVED',
+  REJECTED: 'REJECTED'
+});

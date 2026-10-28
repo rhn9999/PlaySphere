@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "6adfc32ece3f4c99372ebf95",
+    "match": "6adfc32ece3f4c99372ebf8e",
+    "player": "6adfc32dce3f4c99372ebf61",
+    "status": "ACCEPTED",
+    "message": "Hey Rohan, striker ready to play!",
+    "requestedAt": "2026-10-26T21:16:30.447Z",
+    "createdAt": "2026-10-26T21:16:30.448Z",
+    "updatedAt": "2026-10-26T21:16:30.463Z",
+    "__v": 0,
+    "respondedAt": "2026-10-26T21:16:30.463Z"
+  },
+  {
+    "_id": "6ae067961d07c5a477d111b3",
+    "match": "6ae0639dcfa42a296f3e4a9d",
+    "player": "6ae067841d07c5a477d1118e",
+    "status": "PENDING",
+    "message": "",
+    "requestedAt": "2026-10-27T08:57:58.251Z",
+    "createdAt": "2026-10-27T08:57:58.252Z",
+    "updatedAt": "2026-10-27T08:57:58.252Z",
+    "__v": 0
+  }
+]

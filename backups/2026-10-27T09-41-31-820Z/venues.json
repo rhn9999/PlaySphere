@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "6ae0639ccfa42a296f3e4a60",
+    "name": "Sardar Patel Sports Complex Navrangpura",
+    "address": {
+      "street": "Stadium Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "postalCode": "380009",
+      "country": "India",
+      "fullAddress": "Stadium Road, Navrangpura, Ahmedabad, Gujarat"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.5645,
+        23.0402
+      ]
+    },
+    "status": "ACTIVE",
+    "verifyStatus": "APPROVED",
+    "photos": [
+      {
+        "url": "https://example.com/photo1.jpg",
+        "isPrimary": true,
+        "_id": "6ae0639ccfa42a296f3e4a61"
+      }
+    ],
+    "operatingHours": {
+      "open": "06:00",
+      "close": "23:00"
+    },
+    "sport": [
+      "Football",
+      "Cricket"
+    ],
+    "avgRating": 0,
+    "totalReviews": 0,
+    "owner": "6ae0639bcfa42a296f3e4a4c",
+    "createdAt": "2026-10-27T08:41:00.409Z",
+    "updatedAt": "2026-10-27T08:41:00.409Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ae0639ccfa42a296f3e4a63",
+    "name": "Sabarmati Riverfront Sports Park",
+    "address": {
+      "street": "Riverfront Promenade",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "postalCode": "380006",
+      "country": "India",
+      "fullAddress": "Riverfront Promenade, Sabarmati, Ahmedabad, Gujarat"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.579,
+        23.028
+      ]
+    },
+    "status": "ACTIVE",
+    "verifyStatus": "APPROVED",
+    "photos": [
+      {
+        "url": "https://example.com/photo2.jpg",
+        "isPrimary": true,
+        "_id": "6ae0639ccfa42a296f3e4a64"
+      }
+    ],
+    "operatingHours": {
+      "open": "06:00",
+      "close": "23:00"
+    },
+    "sport": [
+      "Tennis",
+      "Basketball"
+    ],
+    "avgRating": 0,
+    "totalReviews": 0,
+    "owner": "6ae0639bcfa42a296f3e4a4c",
+    "createdAt": "2026-10-27T08:41:00.415Z",
+    "updatedAt": "2026-10-27T08:41:00.415Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ae0639ccfa42a296f3e4a66",
+    "name": "SG Highway Arena Turf Bodakdev",
+    "address": {
+      "street": "SG Highway",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "postalCode": "380054",
+      "country": "India",
+      "fullAddress": "SG Highway, Bodakdev, Ahmedabad, Gujarat"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.505,
+        23.033
+      ]
+    },
+    "status": "ACTIVE",
+    "verifyStatus": "APPROVED",
+    "operatingHours": {
+      "open": "06:00",
+      "close": "23:00"
+    },
+    "sport": [
+      "Football"
+    ],
+    "avgRating": 0,
+    "totalReviews": 0,
+    "owner": "6ae0639bcfa42a296f3e4a4c",
+    "photos": [],
+    "createdAt": "2026-10-27T08:41:00.420Z",
+    "updatedAt": "2026-10-27T08:41:00.420Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ae0639ccfa42a296f3e4a68",
+    "name": "Unapproved Underground Turf",
+    "address": {
+      "street": "Secret Lane",
+      "city": "Ahmedabad",
+      "state": "",
+      "postalCode": "",
+      "country": "India",
+      "fullAddress": "Secret Lane, Ahmedabad"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.57,
+        23.02
+      ]
+    },
+    "status": "PENDING_APPROVAL",
+    "verifyStatus": "PENDING",
+    "operatingHours": {
+      "open": "06:00",
+      "close": "23:00"
+    },
+    "sport": [
+      "Football"
+    ],
+    "avgRating": 0,
+    "totalReviews": 0,
+    "owner": "6ae0639bcfa42a296f3e4a4c",
+    "photos": [],
+    "createdAt": "2026-10-27T08:41:00.424Z",
+    "updatedAt": "2026-10-27T08:41:00.424Z",
+    "__v": 0
+  }
+]

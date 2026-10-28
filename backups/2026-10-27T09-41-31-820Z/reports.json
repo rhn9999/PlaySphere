@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "6adfc32ece3f4c99372ebfab",
+    "reporter": "6adfc32dce3f4c99372ebf50",
+    "targetUser": "6adfc32dce3f4c99372ebf61",
+    "reason": "Test Report: Testing moderation queue workflow",
+    "status": "RESOLVED",
+    "resolutionNote": "Reviewed by admin. Warning issued.",
+    "actionTaken": "ISSUED_WARNING",
+    "createdAt": "2026-10-26T21:16:30.490Z",
+    "updatedAt": "2026-10-26T21:16:30.494Z",
+    "__v": 0,
+    "resolvedAt": "2026-10-26T21:16:30.494Z",
+    "resolver": "6adfc32dce3f4c99372ebf67"
+  }
+]

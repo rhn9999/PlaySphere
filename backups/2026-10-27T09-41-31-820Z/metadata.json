@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-10-27T09:41:31.875Z",
+  "sourceUri": "mongodb://localhost:27017/khelnow",
+  "database": "khelnow",
+  "collections": [
+    {
+      "collection": "openmatches",
+      "documents": 1,
+      "file": "openmatches.json",
+      "sizeBytes": 752
+    },
+    {
+      "collection": "skilltags",
+      "documents": 0,
+      "file": "skilltags.json",
+      "sizeBytes": 2
+    },
+    {
+      "collection": "users",
+      "documents": 7,
+      "file": "users.json",
+      "sizeBytes": 4961
+    },
+    {
+      "collection": "grounds",
+      "documents": 1,
+      "file": "grounds.json",
+      "sizeBytes": 330
+    },
+    {
+      "collection": "venues",
+      "documents": 4,
+      "file": "venues.json",
+      "sizeBytes": 3562
+    },
+    {
+      "collection": "chatmessages",
+      "documents": 1,
+      "file": "chatmessages.json",
+      "sizeBytes": 361
+    },
+    {
+      "collection": "reports",
+      "documents": 1,
+      "file": "reports.json",
+      "sizeBytes": 520
+    },
+    {
+      "collection": "slots",
+      "documents": 1,
+      "file": "slots.json",
+      "sizeBytes": 321
+    },
+    {
+      "collection": "bookingrequests",
+      "documents": 1,
+      "file": "bookingrequests.json",
+      "sizeBytes": 417
+    },
+    {
+      "collection": "playerreviews",
+      "documents": 1,
+      "file": "playerreviews.json",
+      "sizeBytes": 346
+    },
+    {
+      "collection": "auditlogs",
+      "documents": 4,
+      "file": "auditlogs.json",
+      "sizeBytes": 1920
+    },
+    {
+      "collection": "joinrequests",
+      "documents": 2,
+      "file": "joinrequests.json",
+      "sizeBytes": 733
+    }
+  ],
+  "totalSizeBytes": 14225
+}

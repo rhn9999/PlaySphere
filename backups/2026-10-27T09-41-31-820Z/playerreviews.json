@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "6adfc32ece3f4c99372ebf9e",
+    "reviewer": "6adfc32dce3f4c99372ebf50",
+    "targetPlayer": "6adfc32dce3f4c99372ebf61",
+    "sportsmanship": 5,
+    "skillRating": 5,
+    "comment": "Great teammate, punctual and polite.",
+    "createdAt": "2026-10-26T21:16:30.471Z",
+    "updatedAt": "2026-10-26T21:16:30.471Z",
+    "__v": 0
+  }
+]

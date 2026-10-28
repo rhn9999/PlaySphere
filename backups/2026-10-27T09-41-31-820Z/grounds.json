@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "6ae0639ccfa42a296f3e4a6a",
+    "venue": "6ae0639ccfa42a296f3e4a60",
+    "name": "Navrangpura Field 1",
+    "sportType": "Football",
+    "surface": "AstroTurf",
+    "coverPhoto": "",
+    "isActive": true,
+    "createdAt": "2026-10-27T08:41:00.427Z",
+    "updatedAt": "2026-10-27T08:41:00.427Z",
+    "__v": 0
+  }
+]

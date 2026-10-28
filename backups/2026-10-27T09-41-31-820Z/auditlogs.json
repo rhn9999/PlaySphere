@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "6adfc32ece3f4c99372ebfaf",
+    "admin": "6adfc32dce3f4c99372ebf67",
+    "action": "RESOLVE_REPORT_RESOLVED",
+    "target": "6adfc32ece3f4c99372ebfab",
+    "details": {
+      "resolutionNote": "Reviewed by admin. Warning issued.",
+      "actionTaken": "ISSUED_WARNING",
+      "targetUser": "6adfc32dce3f4c99372ebf61"
+    },
+    "timestamp": "2026-10-26T21:16:30.496Z",
+    "createdAt": "2026-10-26T21:16:30.497Z",
+    "updatedAt": "2026-10-26T21:16:30.497Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adfc32ece3f4c99372ebfb4",
+    "admin": "6adfc32dce3f4c99372ebf67",
+    "action": "BAN_USER",
+    "target": "6adfc32dce3f4c99372ebf61",
+    "details": {
+      "reason": "Violated platform fair play code",
+      "targetUsername": "amit_striker",
+      "targetEmail": "test_player2@khelnow.com"
+    },
+    "timestamp": "2026-10-26T21:16:30.503Z",
+    "createdAt": "2026-10-26T21:16:30.504Z",
+    "updatedAt": "2026-10-26T21:16:30.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adfc32ece3f4c99372ebfbb",
+    "admin": "6adfc32dce3f4c99372ebf67",
+    "action": "UNBAN_USER",
+    "target": "6adfc32dce3f4c99372ebf61",
+    "details": {
+      "reason": "Appeal approved",
+      "targetUsername": "amit_striker",
+      "targetEmail": "test_player2@khelnow.com"
+    },
+    "timestamp": "2026-10-26T21:16:30.511Z",
+    "createdAt": "2026-10-26T21:16:30.511Z",
+    "updatedAt": "2026-10-26T21:16:30.511Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adfc32ece3f4c99372ebfbf",
+    "admin": "6adfc32dce3f4c99372ebf67",
+    "action": "OVERRIDE_RELIABILITY_SCORE",
+    "target": "6adfc32dce3f4c99372ebf61",
+    "details": {
+      "reason": "Admin adjusted score after sportsmanship review",
+      "previousScore": 100,
+      "newScore": 95,
+      "playerUsername": "amit_striker"
+    },
+    "timestamp": "2026-10-26T21:16:30.516Z",
+    "createdAt": "2026-10-26T21:16:30.517Z",
+    "updatedAt": "2026-10-26T21:16:30.517Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "6ae0639bcfa42a296f3e4a4c",
+    "name": "Test Owner",
+    "username": "test_owner",
+    "email": "owner@ahmedabadarenas.com",
+    "password": "$2b$10$ewXjdM4dTBD8lL/0Nz6pRetXm3ZeGkOBf6BNH3nBs1q9RE6IT/tk2",
+    "bio": "",
+    "avatarUrl": "",
+    "role": "VENUE_OWNER",
+    "isBanned": false,
+    "isActive": true,
+    "businessName": "Ahmedabad Arenas Ltd",
+    "createdAt": "2026-10-27T08:41:00.003Z",
+    "updatedAt": "2026-10-27T08:41:00.003Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ae0639ccfa42a296f3e4a53",
+    "name": "Arjun Host",
+    "username": "arjun_host",
+    "email": "arjun@ahd.com",
+    "password": "$2b$10$lQqBQeMIfSq6oF1XFcjImOMbc3JHpJKGjNScyv9jN3fezewvZJr3G",
+    "bio": "",
+    "avatarUrl": "",
+    "role": "PLAYER",
+    "isBanned": false,
+    "isActive": true,
+    "reliabilityScore": 90,
+    "gamesPlayed": 0,
+    "sports": [
+      "Football",
+      "Cricket"
+    ],
+    "preferredSports": [
+      "Football",
+      "Cricket"
+    ],
+    "searchRadius": 10000,
+    "fcmToken": "fcm_token_arjun_test_12345",
+    "lastLocationUpdate": "2026-10-27T08:41:01.860Z",
+    "createdAt": "2026-10-27T08:41:00.105Z",
+    "updatedAt": "2026-10-27T08:41:01.875Z",
+    "__v": 0,
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [
+        72.5714,
+        23.0225
+      ]
+    }
+  },
+  {
+    "_id": "6ae0639ccfa42a296f3e4a59",
+    "name": "Deepak Nearby",
+    "username": "deepak_nearby",
+    "email": "deepak@ahd.com",
+    "password": "$2b$10$5EKX9kamMoC4OSFzROZe0.VDaJSzjN1cO8jdjrrR.aBTIm.vT4fsC",
+    "bio": "",
+    "avatarUrl": "",
+    "role": "PLAYER",
+    "isBanned": false,
+    "isActive": true,
+    "reliabilityScore": 85,
+    "gamesPlayed": 0,
+    "sports": [
+      "Football"
+    ],
+    "preferredSports": [
+      "Football"
+    ],
+    "searchRadius": 8000,
+    "fcmToken": "fcm_token_deepak_nearby",
+    "lastLocationUpdate": "2026-10-27T08:41:00.290Z",
+    "createdAt": "2026-10-27T08:41:00.208Z",
+    "updatedAt": "2026-10-27T08:41:00.290Z",
+    "__v": 0,
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [
+        72.528,
+        23.035
+      ]
+    }
+  },
+  {
+    "_id": "6ae0639ccfa42a296f3e4a5d",
+    "name": "Sneha Far",
+    "username": "sneha_far",
+    "email": "sneha@gandhinagar.com",
+    "password": "$2b$10$5SRpagXjCW8oYzPIZjnOpuQUY65.JYzpa0Pi9CZP0E3pWJ1ZQXAJC",
+    "bio": "",
+    "avatarUrl": "",
+    "role": "PLAYER",
+    "isBanned": false,
+    "isActive": true,
+    "reliabilityScore": 95,
+    "gamesPlayed": 0,
+    "sports": [
+      "Badminton"
+    ],
+    "preferredSports": [
+      "Badminton"
+    ],
+    "searchRadius": 5000,
+    "fcmToken": "fcm_token_sneha_far",
+    "lastLocationUpdate": "2026-10-27T08:41:00.399Z",
+    "createdAt": "2026-10-27T08:41:00.295Z",
+    "updatedAt": "2026-10-27T08:41:00.399Z",
+    "__v": 0,
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [
+        72.684,
+        23.2156
+      ]
+    }
+  },
+  {
+    "_id": "6ae064961d07c5a477d1113d",
+    "name": "test 2",
+    "username": "test_two",
+    "email": "testwo@gmail.com",
+    "password": "$2b$10$wZnesflGqxsHNsdaXoSmqubuOaAfBVcRBOlK0eP.evnMi0WuIsUYy",
+    "bio": "",
+    "avatarUrl": "",
+    "role": "PLAYER",
+    "isBanned": false,
+    "isActive": true,
+    "reliabilityScore": 100,
+    "gamesPlayed": 0,
+    "sports": [
+      "Football"
+    ],
+    "preferredSports": [],
+    "searchRadius": 5000,
+    "fcmToken": null,
+    "lastLocationUpdate": "2026-10-27T08:47:09.941Z",
+    "createdAt": "2026-10-27T08:45:10.560Z",
+    "updatedAt": "2026-10-27T08:47:09.942Z",
+    "__v": 0,
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [
+        72.65418956471964,
+        23.16327764169825
+      ]
+    }
+  },
+  {
+    "_id": "6ae067841d07c5a477d1118e",
+    "name": "yug",
+    "username": "yug_49",
+    "email": "khankng432@gmail.com",
+    "password": "$2b$10$JyQnl/ixQTUzrYRQRZYwOupoOFmfJzzW03bRecb.X4q8IZdUzoIU2",
+    "bio": "",
+    "avatarUrl": "",
+    "role": "PLAYER",
+    "isBanned": false,
+    "isActive": true,
+    "reliabilityScore": 100,
+    "gamesPlayed": 0,
+    "sports": [
+      "Football"
+    ],
+    "preferredSports": [],
+    "searchRadius": 5000,
+    "fcmToken": null,
+    "lastLocationUpdate": "2026-10-27T09:09:34.717Z",
+    "createdAt": "2026-10-27T08:57:40.752Z",
+    "updatedAt": "2026-10-27T09:09:34.718Z",
+    "__v": 0,
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [
+        72.65414181639836,
+        23.16328158249659
+      ]
+    }
+  },
+  {
+    "_id": "6ae06ab81d07c5a477d112b4",
+    "name": "test Owner two",
+    "username": "test_owner_two",
+    "email": "testownertwo@gmail.com",
+    "password": "$2b$10$L2e6RHQR/g4Jfb/8B0lOEe9eN5qJNdwzFIHPyZSef43PEo0zilcNy",
+    "bio": "",
+    "avatarUrl": "",
+    "role": "VENUE_OWNER",
+    "isBanned": false,
+    "isActive": true,
+    "businessName": "test_worrior",
+    "createdAt": "2026-10-27T09:11:20.208Z",
+    "updatedAt": "2026-10-27T09:11:20.208Z",
+    "__v": 0
+  }
+]

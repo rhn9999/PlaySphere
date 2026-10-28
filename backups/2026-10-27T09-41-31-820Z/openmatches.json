@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "6ae0639dcfa42a296f3e4a9d",
+    "host": "6ae0639ccfa42a296f3e4a53",
+    "title": "Friday Night Football Clash",
+    "sport": "Football",
+    "targetHeadcount": 10,
+    "minReliability": 80,
+    "status": "SEARCHING",
+    "startTime": "2026-10-28T08:41:00.429Z",
+    "venue": "6ae0639ccfa42a296f3e4a60",
+    "slot": "6ae0639ccfa42a296f3e4a6c",
+    "locationName": "Sardar Patel Sports Complex Navrangpura",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.5645,
+        23.0402
+      ]
+    },
+    "lastPingAt": "2026-10-27T08:41:01.930Z",
+    "joinedPlayers": [
+      "6ae0639ccfa42a296f3e4a53"
+    ],
+    "createdAt": "2026-10-27T08:41:01.908Z",
+    "updatedAt": "2026-10-27T08:41:01.930Z",
+    "__v": 0
+  }
+]
